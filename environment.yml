@@ -1,0 +1,15 @@
+name: cesm-bec-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - netcdf4
+  - xarray
+  - xesmf
+  - numpy
+  - pandas
+  - pyyaml
+  - ipykernel
+  - cartopy
+  - matplotlib
+  - seaborn
